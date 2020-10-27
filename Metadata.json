@@ -1,0 +1,20 @@
+{
+    "Author": "Mai Ali",
+    "ContentSize": 5765,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-azure-resource-group-using-powershell/master/CreateResourceGroup.ps1",
+    "DownloadCount": 1388,
+    "Id": "Create-Azure-Resource-c06323e2",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 165,
+    "RaterCount": 15,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-12-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Script was created to install Resource group including storage account, virtual network &  storage content . The below script is for installing Azure Resource group.",
+    "Title": "Create Azure Resource Group using PowerShell",
+    "UpdatedDate": "2017-12-20T00:00:00",
+    "Url": "https://github.com/azureautomation/create-azure-resource-group-using-powershell",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
